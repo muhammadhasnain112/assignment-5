@@ -1,0 +1,168 @@
+*{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+padding: 0%;
+margin: 0%;
+
+}
+body{
+    background-image:url(img/Screenshot_1-8-2024_22832_.jpeg) ;
+    background-size:contain;
+   
+}
+header{
+    height: 15vh;
+    width: 100%;
+   
+    color: #606EBE;
+}
+svg{
+    height: 20px;
+    width: 20px;
+}
+.img{
+    height: 20px;
+    width: 20px;
+    fill: darkblue;
+}
+li{
+    display: inline-block;
+    Font-size: 16px;
+Font-weight: 400;
+margin-top: 2vh;
+}
+#img{
+    fill: #146EBE;
+}
+.start{
+    margin-right: 4%;
+}
+#start{
+    margin-left: 5%;
+}
+.flag{
+    margin-left: 7%;
+}
+.end{
+    margin-left: 23%;
+    fill: #146EBE;
+}
+.img1{
+    height: 25px;
+    width: 25px;
+    fill: darkblue;
+}
+#img:hover{
+fill: #FAB005;
+}
+.img1:hover{
+    fill:currentColor ;
+}
+nav{
+    background-color: #F36944;
+    height: 15vh;
+    width: 80%;
+    color: white;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    border-radius: 10px;
+    Font-weight: 700;
+    
+    Line-height: 24px;
+    margin-left: 10%;
+
+}
+button{
+    height: 8vh;
+    width: 16vw;
+    border-radius: 10px;
+    color: #183153;
+    margin-left: 80px; 
+    margin-bottom: 20px;
+    box-shadow: 0px 4px  #193154;
+    border: 2px solid #193154;
+    background-color: white;
+
+}
+button:hover{
+    background-color: #C3C6D1;
+}
+.taj{
+    height: 6vh;
+    width: 50px;
+    margin-top:4vh ;
+    margin-left: 3vh;
+    fill:#193154 ;
+    
+}
+#span{
+    margin-left: 2vh;
+    color: white;
+
+}
+.clock{
+    fill: #183153;
+    margin-right: 40px;
+}
+b{
+    font-weight: 800;
+    font: size 15px;
+    margin-right: 14px;
+    margin-top: 20px;
+    /* height: 50px; */
+    /* width: 5%; */
+    
+}
+#nav{
+    height: 15vh;
+    width: 100%;
+}
+#font{
+font-family: "Roboto", sans-serif;
+Font-size: 48px;
+
+Font-weight: 700;
+
+
+color: rgb(24, 49, 83);
+height: 50vh;
+width: 100%;
+/* border: 1px solid black; */
+margin-top: 12vh;
+text-align: center;
+/* text-shadow: 2px 2px 2px black; */
+}
+span{
+    color: #FAB005;
+}
+
+.span{
+    Font-size: 20px;
+
+Font-weight: 400;
+margin-top: 10px;
+Line-height: 0px;
+text-shadow: none;
+color:  rgb(24, 49, 83);
+}
+.aw{
+    Font-size: 20px;
+text-shadow: none;
+Font-weight: 700;
+color:rgb(24, 49, 83) ;
+}
+.bb{
+    fill: rgb(24, 49, 83);
+}
+#bb{
+    margin-right: 12px;
+}
+.b{
+    fill: rgb(24, 49, 83);
+    background-color: rgb(255, 212,59 );
+}
+.b:hover{
+    background-color: #FAB005;
+}
+strong{
+    font-size: medium;
+}
